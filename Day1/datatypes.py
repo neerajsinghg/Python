@@ -1,0 +1,10 @@
+x=100
+y=10.12
+z="Hello"
+c='c'
+t=True
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(c))
+print(type(t))
